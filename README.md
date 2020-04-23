@@ -22,7 +22,6 @@ $ cmake --build .
 After the build completes, you should see output like the following:
 ```
 --- snip 8< ---
-b.o
 [ 91%] Building C object bl2/ext/mcuboot/CMakeFiles/mcuboot.dir/__/__/__/platform/ext/target/musca_b1/Native_Driver/gpio_cmsdk_drv.o
 [ 92%] Building C object bl2/ext/mcuboot/CMakeFiles/mcuboot.dir/__/__/__/platform/ext/common/boot_hal.o
 [ 92%] Building C object bl2/ext/mcuboot/CMakeFiles/mcuboot.dir/__/__/__/platform/ext/target/musca_b1/boot_hal.o
