@@ -26,3 +26,9 @@ git fetch --all
 
 # Mbed tools
 python3 -m pip install mbed-cli
+
+# Regression tests
+cd
+git clone https://github.com/ARMmbed/mbed-os-tf-m-regression-tests.git
+cd ~/mbed-os-tf-m-regression-tests
+mbed deploy
