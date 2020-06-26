@@ -23,3 +23,6 @@ git remote add ARMmbed https://github.com/ARMmbed/trusted-firmware-m.git
 git remote add jainvikas8 https://github.com/jainvikas8/trusted-firmware-m.git
 git remote add Patater https://github.com/Patater/trusted-firmware-m.git
 git fetch --all
+
+# Mbed tools
+python3 -m pip install mbed-cli
